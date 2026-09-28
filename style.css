@@ -1,0 +1,26 @@
+div#aba {
+    background: rgb(159, 159, 159);
+    text-align: center;
+    width: 400px;
+    height: 660px;
+    margin: auto;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.774);
+}
+div#res {
+    margin: auto;
+    padding-top: 80px;
+    background: rgb(44, 44, 44);
+    border-radius: 25px;
+    width: 340px;
+    padding-right: 10px;
+    font: normal 55px arial;
+    text-align: right;
+    
+    color: rgb(0, 0, 0);
+}
+input {
+    width: 83px;
+    height: 75px;
+    font: normal 45px arial;
+}
